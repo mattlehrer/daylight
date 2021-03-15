@@ -20,5 +20,8 @@
 	"type": "module",
 	"engines": {
 		"node": ">= 12.17.0"
+	},
+	"dependencies": {
+		"@modern-dev/daylight": "^0.1.0"
 	}
 }
